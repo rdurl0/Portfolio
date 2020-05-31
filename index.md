@@ -30,8 +30,8 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 **Para ver minha dissertação de mestrado [clique aqui](https://github.com/rdurl0/Dissertacao-de-Mestrado)**
 
-[Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidios_distritos.PNG)
+![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidios_distritos.PNG)
 
-[Diagrama de autocorrelação espacial - Homicídios no município de São Paulo (2003 - 2013)](./assets/img/moram_homicidios.PNG)
+![Diagrama de autocorrelação espacial - Homicídios no município de São Paulo (2003 - 2013)](./assets/img/moram_homicidios.PNG)
 
 ## 
