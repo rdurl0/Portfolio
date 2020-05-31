@@ -8,7 +8,8 @@ Olá! :)
 
 Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus projetos e páginas no GitHub](https://github.com/rdurl0).
 
-## Índice
+## [Índice](#indice)
+
 - [Sobre mim](#sobre-mim)
 - [Atuação Profissional](#atuação-profissional)
 - [Mestrado](#mestrado)
