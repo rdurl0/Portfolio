@@ -61,6 +61,7 @@ Código desenvolvido para extrair dados com `RSelenium` do [Programa de Monitora
 
 - Pra acessar o código [clique aqui](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/code/raspagem_dados_propesq.R).
 
+***
 
 ## Mestrado
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
