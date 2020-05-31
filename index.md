@@ -11,7 +11,7 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
 ## Índice
 
 - [Sobre mim](#sobre-mim)
-- [*Trainee* Bradesco/IEL/CNPq](#atuação-profissional)
+- [_Trainee_ Bradesco/IEL/CNPq](#trainee-bradescoielcnpq)
 - [Mestrado](#mestrado)
    - [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
    - [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
