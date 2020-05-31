@@ -22,7 +22,7 @@ Atualmente sou *trainee* do programa [Inova Talentos - CNPq - IEL](http://www.po
 
 O processo seletivo para este programa consiste na resolução de um desafio proposto, sobre regressão logística.
 
-**[Link da resposta ao desafio IEL-CNPq](https://rdurl0.github.io/Desafio-IEL-CNPq/)**
+**[Link da resposta ao desafio IEL-CNPq](https://rdurl0.github.io/Desafio-IEL-CNPq/docs/desafio.html)**
 
 ### Mestrado
 
@@ -30,10 +30,10 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 **Para ver minha dissertação de mestrado [clique aqui](https://github.com/rdurl0/Dissertacao-de-Mestrado)**
 
-![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](https://github.com/rdurl0/Portfolio/blob/master/assets/img/homicidio_distritos.PNG)
+![](https://github.com/rdurl0/Portfolio/blob/master/assets/img/homicidio_distritos.PNG)
 
-[ver imagem](https://github.com/rdurl0/Portfolio/blob/master/assets/img/homicidio_distritos.PNG)
+[Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](https://github.com/rdurl0/Portfolio/blob/master/assets/img/homicidio_distritos.PNG)
 
-![Diagrama de autocorrelação espacial - Homicídios no município de São Paulo (2003 - 2013)](https://github.com/rdurl0/Portfolio/blob/master/assets/img/moran_homicidios.PNG)
+![](https://github.com/rdurl0/Portfolio/blob/master/assets/img/moran_homicidios.PNG)
 
-[ver imagem](https://github.com/rdurl0/Portfolio/blob/master/assets/img/moran_homicidios.PNG)
+[Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](https://github.com/rdurl0/Portfolio/blob/master/assets/img/moran_homicidios.PNG)
