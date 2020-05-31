@@ -1,6 +1,7 @@
 ---
 layout: default
 toc: true
+toc_sticky: true
 ---
 
 # Portfólio pessoal
