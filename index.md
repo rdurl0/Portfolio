@@ -25,6 +25,8 @@ Me interesso por programação em `R`, com enfase em temas econômicos e sociais
 
 - [Neste *link*](./pdf/CV_Raul_de_Sa_Durlo.pdf) você pode consultar meu curriculo profissional.
 
+***
+
 ## *Trainee* Bradesco/IEL/CNPq
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
@@ -33,6 +35,8 @@ Atualmente sou *trainee* do programa [Inova Talentos - CNPq - IEL](http://www.po
 O processo seletivo para este programa consiste na resolução de um desafio proposto, sobre regressão logística.
 
 **[Link da resposta ao desafio IEL-CNPq](https://rdurl0.github.io/Desafio-IEL-CNPq/docs/desafio.html)**
+
+***
 
 ## Mestrado
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
@@ -48,3 +52,5 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 ![Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
 
 [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
+
+***
