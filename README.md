@@ -10,7 +10,7 @@ Hello! My name is Raul de Sá Durlo.
 
 I did my undergraduate degree in Economics from Maringá State University (UEM) and a Master's degree in Economics from São Paulo State University (Unesp) University.
 
-My CV: [link to my CV](https://rdurl0.github.io/Desafio-IEL-CNPq/docs/CV_Raul.pdf)
+My CV: [link to my CV](./pdf/CV_Raul_de_Sa_Durlo.pdf)
 
 
 
