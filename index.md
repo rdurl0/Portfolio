@@ -11,7 +11,7 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
 ## Índice
 
 - [Sobre mim](#sobre-mim)
-- [_Trainee_ Bradesco/IEL/CNPq](#trainee-bradescoielcnpq)
+- [*Trainee* Bradesco/IEL/CNPq](#trainee-bradescoielcnpq)
 - [Mestrado](#mestrado)
    - [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
    - [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
@@ -25,7 +25,7 @@ Me interesso por programação em `R`, com enfase em temas econômicos e sociais
 
 - [Neste *link*](./pdf/CV_Raul_de_Sa_Durlo.pdf) você pode consultar meu curriculo profissional.
 
-## Trainee* Bradesco/IEL/CNPq
+## *Trainee* Bradesco/IEL/CNPq
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
 Atualmente sou *trainee* do programa [Inova Talentos - CNPq - IEL](http://www.portaldaindustria.com.br/inovatalentos), atuando na área de Modelagem e Precificação de Produtos Bancários no Bradesco. 
