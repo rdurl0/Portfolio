@@ -29,6 +29,11 @@ Me interesso por programação em `R`, com enfase em temas econômicos e sociais
 
 - [Neste *link*](./pdf/CV_Raul_de_Sa_Durlo.pdf) você pode consultar meu curriculo profissional.
 
+**Contato**
+
+ - **email**: <durlo.raul@gmail.com>
+ - **celular**: (11) 9 7094-1437
+
 ***
 
 ## *Trainee* Bradesco/IEL/CNPq
