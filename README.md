@@ -1,4 +1,3 @@
-![](./image/eu.png)
 
 # Portfólio
 
