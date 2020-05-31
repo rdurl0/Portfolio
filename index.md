@@ -14,6 +14,7 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
 - [*Trainee* Bradesco/IEL/CNPq](#trainee-bradescoielcnpq)
 - [Web Scraping](#web-scraping)
   - [IMP-Seade](#imp-seade) 
+  - [PropPesq](#propesq)
 - [Mestrado](#mestrado)
   - [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
   - [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
@@ -51,9 +52,12 @@ O processo seletivo para este programa consiste na resolução de um desafio pro
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
 ### IMP-Seade
-<sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
 Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei documentando todo o processo que desenvolvi para extrair os dados do [IMP-Seade](https://www.imp.seade.gov.br): Você pode conferir o post [clicando aqui aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
+
+### ProPesq
+
+
 
 ## Mestrado
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
@@ -64,10 +68,10 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 ![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
 
-### [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
+### Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013) [(ampliar imagem)](./assets/img/homicidio_distritos.png)
 
 ![Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
 
-### [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
+### Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013) [(ampliar imagem)](./assets/img/moran_homicidios.png)
 
 ***
