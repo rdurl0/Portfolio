@@ -53,7 +53,7 @@ O processo seletivo para este programa consiste na resolução de um desafio pro
 
 Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei documentando todo o processo que desenvolvi para extrair os dados do [IMP-Seade](https://www.imp.seade.gov.br).
 
-- Você pode conferir o post [clicando aqui aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
+- Você pode conferir o post [clicando aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
 
 ### ProPesq
 
