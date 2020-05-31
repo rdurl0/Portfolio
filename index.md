@@ -14,7 +14,7 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
 - [*Trainee* Bradesco/IEL/CNPq](#trainee-bradescoielcnpq)
 - [Web Scraping](#web-scraping)
   - [IMP-Seade](#imp-seade) 
-  - [PropPesq](#propesq)
+  - [ProPesq](#propesq)
 - [Mestrado](#mestrado)
    
 ***
