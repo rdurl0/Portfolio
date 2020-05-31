@@ -32,4 +32,8 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 ![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
 
+[Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
+
 ![Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
+
+[Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
