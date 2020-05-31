@@ -16,8 +16,6 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
   - [IMP-Seade](#imp-seade) 
   - [PropPesq](#propesq)
 - [Mestrado](#mestrado)
-  - [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
-  - [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](#mestrado)
    
 ***
 
@@ -53,10 +51,15 @@ O processo seletivo para este programa consiste na resolução de um desafio pro
 
 ### IMP-Seade
 
-Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei documentando todo o processo que desenvolvi para extrair os dados do [IMP-Seade](https://www.imp.seade.gov.br): Você pode conferir o post [clicando aqui aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
+Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei documentando todo o processo que desenvolvi para extrair os dados do [IMP-Seade](https://www.imp.seade.gov.br).
+
+- Você pode conferir o post [clicando aqui aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
 
 ### ProPesq
 
+Código desenvolvido para extrair dados com `RSelenium` do [Programa de Monitoramento da Atividade Pesqueira Marinha e Estuarina do Estado de São Paulo PMAP-SP](http://www.propesq.pesca.sp.gov.br/usuarioexterno/).
+
+- Pra acessar o código [clique aqui](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/code/raspagem_dados_propesq.R).
 
 
 ## Mestrado
@@ -66,12 +69,11 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 **Para ver minha dissertação de mestrado [clique aqui](https://github.com/rdurl0/Dissertacao-de-Mestrado)**
 
+[Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
+
 ![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
 
-### Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013) [(ampliar imagem)](./assets/img/homicidio_distritos.png)
+[Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
 
 ![Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
-
-### Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013) [(ampliar imagem)](./assets/img/moran_homicidios.png)
-
 ***
