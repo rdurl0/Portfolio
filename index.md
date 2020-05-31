@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Portfólio pessoal
 
 Olá! :)
