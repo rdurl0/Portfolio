@@ -115,6 +115,8 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[Modelagem\] Heterocedasticidade [clique aqui](https://rpubs.com/RaulDurlo/exercicio_2)
 
+* \[Apostila\] Séries temporais [clique aqui](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/report/resumo_series_temporais.pdf)
+
 ***
 
 ## Mestrado
