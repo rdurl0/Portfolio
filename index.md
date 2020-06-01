@@ -47,6 +47,8 @@ O processo seletivo para este programa consiste na resolução de um desafio pro
 
 **[Link da resposta ao desafio IEL-CNPq](https://rdurl0.github.io/Desafio-IEL-CNPq/docs/desafio.html)**
 
+![](./assets/img/iel_cnpq.png)
+
 ***
 
 ## Web Scrapping
