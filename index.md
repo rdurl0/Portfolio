@@ -15,6 +15,7 @@ Seja bem vindo ao meu portfólio pessoal. Fique à vontade para explorar [meus p
 - [Web Scraping](#web-scraping)
   - [IMP-Seade](#imp-seade) 
   - [ProPesq](#propesq)
+  - [SSP - SP](#ssp-sp)
 - [Mestrado](#mestrado)
    
 ***
@@ -60,6 +61,13 @@ Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei document
 Código desenvolvido para extrair dados com `RSelenium` do [Programa de Monitoramento da Atividade Pesqueira Marinha e Estuarina do Estado de São Paulo PMAP-SP](http://www.propesq.pesca.sp.gov.br/usuarioexterno/).
 
 - Pra acessar o código [clique aqui](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/code/raspagem_dados_propesq.R).
+
+### SSP - SP
+
+Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tudo (os dados e a funçao de raspagem) no pacote `spcrimr`. Esse trabalho foi inspirado [neste post](https://www.curso-r.com/blog/2017-05-19-scrapper-ssp/) do blog do Curso-R.
+
+- Repositório do pacote `spcrimr` ([clique aqui]())
+- Código de raspagem e limpeza dos dados da SSP-SP:
 
 ***
 
