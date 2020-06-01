@@ -82,6 +82,8 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[Gráfico\] Taxa de homicídios - 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/0%5BGráfico%5D_Taxa_de_homicídios_-_1980-2018.html)
 
+![](./assets/img/homicidio_1980_2017.png)
+
 * \[Gráfico\] Taxas médias de homicídio 2002 - 2017 [clique aqui](https://rdurl0.github.io/Projeto/docs/01%5BGráfico%5D_Taxas_médias_de_homicídio_2002_-_2017.html)
 
 * \[GIF\] Mais armas, mais crimes 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html)
