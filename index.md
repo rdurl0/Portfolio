@@ -66,7 +66,7 @@ Código desenvolvido para extrair dados com `RSelenium` do [Programa de Monitora
 
 Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tudo (os dados e a funçao de raspagem) no pacote `spcrimr`. Esse trabalho foi inspirado [neste post](https://www.curso-r.com/blog/2017-05-19-scrapper-ssp/) do blog do Curso-R.
 
-- Repositório do pacote `spcrimr` ([clique aqui]())
+- Repositório do pacote `spcrimr` ([clique aqui](https://github.com/rdurl0/spcrimr))
 - Código de raspagem e limpeza dos dados da SSP-SP:
 
 ***
