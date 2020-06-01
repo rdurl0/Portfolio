@@ -82,46 +82,49 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 ## Visualizando dados:
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-* \[Gráfico\] Taxa de homicídios - 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/0%5BGráfico%5D_Taxa_de_homicídios_-_1980-2018.html)
+* \[Gráfico\] Taxa de homicídios - 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/0%5BGráfico%5D_Taxa_de_homicídios_-_1980-2018.html)
 
 ![](./assets/img/homicidio_1980_2017.png)
 
-* \[Gráfico\] Taxas médias de homicídio 2002 - 2017 [clique aqui](https://rdurl0.github.io/Projeto/docs/01%5BGráfico%5D_Taxas_médias_de_homicídio_2002_-_2017.html)
+* \[Gráfico\] Taxas médias de homicídio 2002 - 2017 [imagem e código](https://rdurl0.github.io/Projeto/docs/01%5BGráfico%5D_Taxas_médias_de_homicídio_2002_-_2017.html)
 
-* \[GIF\] Mais armas, mais crimes 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html)
+* \[GIF\] Mais armas, mais crimes 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html)
 
 ![](./assets/img/mais_arma_mais_crime.gif)
 
-* \[GIF\] Piramide etaria 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
+* \[GIF\] Piramide etaria 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
 
 ![](./assets/img/piramide_etaria.gif)
 
-* \[GIF\] Número de prisoes efetuadas 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html)
+* \[GIF\] Número de prisoes efetuadas 2002-2018 [código](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html)
 
 ![](./assets/img/prisoes.gif)
 
-* \[Gráfico\] Prisoes flagrantes e mandato 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/5%5BGráfico%5D_Prisoes_flagrantes_e_mandato_2002-2018.html)
+* \[Gráfico\] Prisoes flagrantes e mandato 2002-2018 [código](https://rdurl0.github.io/Projeto/docs/5%5BGráfico%5D_Prisoes_flagrantes_e_mandato_2002-2018.html)
 
 ![](./assets/img/prisoes_flagrante_mandato.png)
 
-* \[GIF\] Taxa de homicídios e densidade demográfica 2002-1980 [clique aqui](https://rdurl0.github.io/Projeto/docs/6%5BGIF%5D_Taxa_de_homicídios_e_densidade_demográfica_2002-1980.html)
+* \[GIF\] Taxa de homicídios e densidade demográfica 2002-1980 [código e imagem](https://rdurl0.github.io/Projeto/docs/6%5BGIF%5D_Taxa_de_homicídios_e_densidade_demográfica_2002-1980.html)
 
-* \[Gráfico\] Taxa de suicidios 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/7%5BGráfico%5D_Taxa_de_suicidios_2002-2018.html)
+* \[Gráfico\] Taxa de suicidios 2002-2018 [código e imagem](https://rdurl0.github.io/Projeto/docs/7%5BGráfico%5D_Taxa_de_suicidios_2002-2018.html)
 
-* \[Mapa\] Estatísticas demográficas - Estado de São Paulo [clique aqui](https://github.com/rdurl0/economia_do_crime/blob/master/report/2_2_analysis_demogr.md)
+* \[Mapa\] Estatísticas demográficas - Estado de São Paulo [código](https://github.com/rdurl0/economia_do_crime/blob/master/report/2_2_analysis_demogr.md)
 
 ![](./assets/img/mapa_pop_sp.png)
 
-* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas)
+* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: [cógigo](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas)
 
 ![](./assets/img/mapa_mamografo_pr.png)
+obs: o território em cinza são de municípios que não possuem mamógrafos (`NA`).
 
 ***
 
 ## Modelos e pesquisa
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-* \[Repodução de artigo\] Cerqueira e Moura - 2014 [clique aqui](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html)
+* \[Repodução de artigo\] Demografi e homicídios no Brasil - Cerqueira e Moura - 2014 [clique aqui](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html)
+
+Replicação para o estado de São Paulo:
 
 ![](./assets/img/cerqueira_1.png)
 
@@ -129,7 +132,7 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 ![](./assets/img/mapa_pr_w.png)
 
-* \[Modelagem\] Modelo de regressão logística (presença ou não de mamógrafos e óbitos de mulheres com câncer de mama) [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/5_Modelo_probit.md#modelo-probit)
+* \[Modelagem\] Modelo de regressão logística (presença ou não de mamógrafos vs. óbitos de mulheres com câncer de mama) [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/5_Modelo_probit.md#modelo-probit)
 
 ![](./assets/img/probit_pr.png)
 
@@ -144,7 +147,7 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 ## Mestrado
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde propus uma discussão sobre os modelos econômicos da criminalidade *a la* [Gary Becker](https://www.journals.uchicago.edu/doi/abs/10.1086/259394) em face à interdisciplinaridade deste tema. Procurei estabelecer um enfoque nos determinantes espaciais, discutindo aspectos ambientais e sociais que interferem nos custos e renda esperada que envolve a decisão individual de se cometer ou dissuadir da atividade criminosa. Com esses elementos, busquei explicar um pouco da criminalidade no município de São Paulo propondo um modelo econométrico espacial para dados de homicídio entre 2003 e 2013. O modelo identifica autocorrelação espacial da criminalidade, sugerindo agrupamentos de distritos violentos. O modelo econométrico espacial de Regressões Aparentemente Não Correlacionadas identifica efeitos de variáveis ambientais, como a proporção de domicílios em favelas, como possível determinante da criminalidade nesses locais.
+Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde propus uma discussão sobre os modelos econômicos da criminalidade *a la* [Gary Becker](https://www.journals.uchicago.edu/doi/abs/10.1086/259394) em face à interdisciplinaridade deste tema. Procurei estabelecer um enfoque nos determinantes espaciais, discutindo aspectos ambientais e sociais que interferem nos custos e renda esperada que envolve a decisão individual de se cometer ou dissuadir da atividade criminosa. Com esses elementos, busquei explicar um pouco da criminalidade no município de São Paulo propondo um modelo econométrico espacial para dados de homicídio entre 2003 e 2013. O modelo identifica autocorrelação espacial da criminalidade, sugerindo agrupamentos de distritos violentos. O modelo econométrico espacial de Regressões Aparentemente Não Correlacionadas identifica efeitos de variáveis ambientais, como a proporção de empregos formais em relação ao número de residentes, como possível determinante da criminalidade nesses locais.
 
 **Para ver minha dissertação de mestrado [clique aqui](https://github.com/rdurl0/Dissertacao-de-Mestrado)**
 
