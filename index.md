@@ -92,9 +92,15 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[GIF\] Piramide etaria 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
 
+![](./assets/img/piramide_etaria.gif)
+
 * \[GIF\] Número de prisoes efetuadas 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html)
 
+![](./assets/img/prisoes.gif)
+
 * \[Gráfico\] Prisoes flagrantes e mandato 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/5%5BGráfico%5D_Prisoes_flagrantes_e_mandato_2002-2018.html)
+
+![](./assets/img/prisoes_flagrante_mandato.png)
 
 * \[GIF\] Taxa de homicídios e densidade demográfica 2002-1980 [clique aqui](https://rdurl0.github.io/Projeto/docs/6%5BGIF%5D_Taxa_de_homicídios_e_densidade_demográfica_2002-1980.html)
 
@@ -102,7 +108,11 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[Mapa\] Estatísticas demográficas - Estado de São Paulo [clique aqui](https://github.com/rdurl0/economia_do_crime/blob/master/report/2_2_analysis_demogr.md)
 
+![](./assets/img/mapa_pop_sp.png)
+
 * \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas)
+
+![](./assets/img/mapa_mamografo_pr.png)
 
 ***
 
@@ -111,9 +121,15 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[Repodução de artigo\] Cerqueira e Moura - 2014 [clique aqui](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html)
 
+![](./assets/img/cerqueira_1.png)
+
 * \[Modelagem\] Matriz de contiguidade para econometria espacial [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/4_Autocorrelacao_espacial.md#autocorrela%C3%A7%C3%A3o-espacial)
 
+![](./assets/img/mapa_pr_w.png)
+
 * \[Modelagem\] Modelo de regressão logística (presença ou não de mamógrafos e óbitos de mulheres com câncer de mama) [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/5_Modelo_probit.md#modelo-probit)
+
+![](./assets/img/probit_pr.png)
 
 * \[Modelagem\] Variáveis instrumentais (equações simultâneas) [Clique aqui](https://rpubs.com/RaulDurlo/variavel_instrumental)
 
@@ -132,5 +148,10 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
 
+![](./assets/img/homicidio_distritos.png)
+
 [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
-***
+
+![](./assets/img/moran_homicidios.png)
+
+*****
