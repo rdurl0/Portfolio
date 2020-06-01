@@ -103,6 +103,7 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 ***
 
 ## Modelos e pesquisa
+<sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
 ### \[Repodução de artigo\] Cerqueira e Moura - 2014 [clique aqui](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html)
 
@@ -125,9 +126,5 @@ Em minha dissertação de mestrado eu pesquisei sobre economia do crime, onde pr
 
 [Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
 
-![Taxas de homicídios por Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/homicidio_distritos.png)
-
 [Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
-
-![Diagrama de dispersão de Moran - Distritos Policiais no município de São Paulo (2003 - 2013)](./assets/img/moran_homicidios.png)
 ***
