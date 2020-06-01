@@ -58,11 +58,9 @@ O processo seletivo para este programa consiste na resolução de um desafio pro
 
 Em uma tentativa ~~terrívelmente frustrada~~ de manter um blog, acabei documentando todo o processo que desenvolvi para extrair os dados do [IMP-Seade](https://www.imp.seade.gov.br).
 
-- Você pode conferir o post [clicando aqui](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
+- Você pode conferir o post clicando no link: [Extraindo dados da API do SEADE](https://randreggae.netlify.app/2019/01/21/extraindo-dados-da-api-do-seade/).
 
-Com os dados extraídos, foi possível elaborar essa pirâmide etária da população do estado de São Paulo:
-
-[ver código](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
+Com os dados extraídos, foi possível elaborar essa pirâmide etária da população do estado de São Paulo: [ver código](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
 
 ### ProPesq
 
@@ -82,37 +80,37 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 ## Visualizando dados:
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-* \[Gráfico\] Taxa de homicídios - 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/0%5BGráfico%5D_Taxa_de_homicídios_-_1980-2018.html)
+* \[Gráfico\] Taxa de homicídios - 1980-2018 ([código](https://rdurl0.github.io/Projeto/docs/0%5BGráfico%5D_Taxa_de_homicídios_-_1980-2018.html))
 
 ![](./assets/img/homicidio_1980_2017.png)
 
-* \[Gráfico\] Taxas médias de homicídio 2002 - 2017 [imagem e código](https://rdurl0.github.io/Projeto/docs/01%5BGráfico%5D_Taxas_médias_de_homicídio_2002_-_2017.html)
+* \[Gráfico\] Taxas médias de homicídio 2002 - 2017 ([imagem e código](https://rdurl0.github.io/Projeto/docs/01%5BGráfico%5D_Taxas_médias_de_homicídio_2002_-_2017.html))
 
-* \[GIF\] Mais armas, mais crimes 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html)
+* \[GIF\] Mais armas, mais crimes 1980-2018 ([código](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html))
 
 ![](./assets/img/mais_arma_mais_crime.gif)
 
-* \[GIF\] Piramide etaria 1980-2018 [código](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
+* \[GIF\] Piramide etaria 1980-2018 ([código](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html))
 
 ![](./assets/img/piramide_etaria.gif)
 
-* \[GIF\] Número de prisoes efetuadas 2002-2018 [código](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html)
+* \[GIF\] Número de prisoes efetuadas 2002-2018 ([código](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html))
 
 ![](./assets/img/prisoes.gif)
 
-* \[Gráfico\] Prisoes flagrantes e mandato 2002-2018 [código](https://rdurl0.github.io/Projeto/docs/5%5BGráfico%5D_Prisoes_flagrantes_e_mandato_2002-2018.html)
+* \[Gráfico\] Prisoes flagrantes e mandato 2002-2018 ([código](https://rdurl0.github.io/Projeto/docs/5%5BGráfico%5D_Prisoes_flagrantes_e_mandato_2002-2018.html))
 
 ![](./assets/img/prisoes_flagrante_mandato.png)
 
-* \[GIF\] Taxa de homicídios e densidade demográfica 2002-1980 [código e imagem](https://rdurl0.github.io/Projeto/docs/6%5BGIF%5D_Taxa_de_homicídios_e_densidade_demográfica_2002-1980.html)
+* \[GIF\] Taxa de homicídios e densidade demográfica 2002-1980 ([código e imagem](https://rdurl0.github.io/Projeto/docs/6%5BGIF%5D_Taxa_de_homicídios_e_densidade_demográfica_2002-1980.html))
 
-* \[Gráfico\] Taxa de suicidios 2002-2018 [código e imagem](https://rdurl0.github.io/Projeto/docs/7%5BGráfico%5D_Taxa_de_suicidios_2002-2018.html)
+* \[Gráfico\] Taxa de suicidios 2002-2018 ([código e imagem](https://rdurl0.github.io/Projeto/docs/7%5BGráfico%5D_Taxa_de_suicidios_2002-2018.html))
 
-* \[Mapa\] Estatísticas demográficas - Estado de São Paulo [código](https://github.com/rdurl0/economia_do_crime/blob/master/report/2_2_analysis_demogr.md)
+* \[Mapa\] Estatísticas demográficas - Estado de São Paulo ([código](https://github.com/rdurl0/economia_do_crime/blob/master/report/2_2_analysis_demogr.md))
 
 ![](./assets/img/mapa_pop_sp.png)
 
-* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: [cógigo](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas)
+* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: ([cógigo](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas))
 
 ![](./assets/img/mapa_mamografo_pr.png)
 obs: o território em cinza são de municípios que não possuem mamógrafos (`NA`).
@@ -122,25 +120,25 @@ obs: o território em cinza são de municípios que não possuem mamógrafos (`N
 ## Modelos e pesquisa
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-* \[Repodução de artigo\] Demografi e homicídios no Brasil - Cerqueira e Moura - 2014 [clique aqui](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html)
+* \[Repodução de artigo\] Demografi e homicídios no Brasil - Cerqueira e Moura - 2014 ([full report](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html))
 
 Replicação para o estado de São Paulo:
 
 ![](./assets/img/cerqueira_1.png)
 
-* \[Modelagem\] Matriz de contiguidade para econometria espacial [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/4_Autocorrelacao_espacial.md#autocorrela%C3%A7%C3%A3o-espacial)
+* \[Modelagem\] Matriz de contiguidade para econometria espacial ([full report](https://github.com/rdurl0/economia_da_saude/blob/master/4_Autocorrelacao_espacial.md#autocorrela%C3%A7%C3%A3o-espacial))
 
 ![](./assets/img/mapa_pr_w.png)
 
-* \[Modelagem\] Modelo de regressão logística (presença ou não de mamógrafos vs. óbitos de mulheres com câncer de mama) [clique aqui](https://github.com/rdurl0/economia_da_saude/blob/master/5_Modelo_probit.md#modelo-probit)
+* \[Modelagem\] Modelo de regressão logística (presença ou não de mamógrafos vs. óbitos de mulheres com câncer de mama) ([full report](https://github.com/rdurl0/economia_da_saude/blob/master/5_Modelo_probit.md#modelo-probit))
 
 ![](./assets/img/probit_pr.png)
 
-* \[Modelagem\] Variáveis instrumentais (equações simultâneas) [Clique aqui](https://rpubs.com/RaulDurlo/variavel_instrumental)
+* \[Modelagem\] Variáveis instrumentais (equações simultâneas) ([full report](https://rpubs.com/RaulDurlo/variavel_instrumental))
 
-* \[Modelagem\] Heterocedasticidade [clique aqui](https://rpubs.com/RaulDurlo/exercicio_2)
+* \[Modelagem\] Heterocedasticidade ([full report](https://rpubs.com/RaulDurlo/exercicio_2))
 
-* \[Apostila\] Séries temporais [clique aqui](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/report/resumo_series_temporais.pdf)
+* \[Apostila\] Séries temporais ([full report](https://github.com/rdurl0/Economia_Da_Pesca/blob/master/report/resumo_series_temporais.pdf))
 
 ***
 
