@@ -88,6 +88,8 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 * \[GIF\] Mais armas, mais crimes 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/2%5BGIF%5D_Mais_armas,_mais_crimes_1980-2018.html)
 
+![](./assets/img/mais_arma_mais_crime.gif)
+
 * \[GIF\] Piramide etaria 1980-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/3%5BGIF%5D_Piramide_etaria_1980-2018.html)
 
 * \[GIF\] Número de prisoes efetuadas 2002-2018 [clique aqui](https://rdurl0.github.io/Projeto/docs/4%5BGIF%5D_Número_de_prisoes_efetuadas_2002-2018.html)
