@@ -110,7 +110,7 @@ Raspei os dados da Secretaria de Segurança Pública de São Paulo e coloquei tu
 
 ![](./assets/img/mapa_pop_sp.png)
 
-* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: ([cógigo](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas))
+* \[Mapa\] Disponibilidade de Equipamentos de mamografia no estado do Paraná: ([código](https://github.com/rdurl0/economia_da_saude/blob/master/3_Analise_exploratoria.md#mapas))
 
 ![](./assets/img/mapa_mamografo_pr.png)
 obs: o território em cinza são de municípios que não possuem mamógrafos (`NA`).
@@ -120,7 +120,7 @@ obs: o território em cinza são de municípios que não possuem mamógrafos (`N
 ## Modelos e pesquisa
 <sub><sup>[Retornar ao índice](#índice)</sup></sub>
 
-* \[Repodução de artigo\] Demografi e homicídios no Brasil - Cerqueira e Moura - 2014 ([full report](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html))
+* \[Repodução de artigo\] Demografia e homicídios no Brasil - Cerqueira e Moura - 2014 ([full report](https://rdurl0.github.io/Projeto/docs/%5BRepodução%5D_Cerqueira_e_Moura_-_2014.html))
 
 Replicação para o estado de São Paulo:
 
